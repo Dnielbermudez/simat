@@ -1,0 +1,10 @@
+{
+  "name": "SIMAT · Monitoreo atmosférico",
+  "short_name": "SIMAT",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#F7F7F4",
+  "theme_color": "#22252A",
+  "lang": "es",
+  "icons": [{ "src": "assets/icon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
